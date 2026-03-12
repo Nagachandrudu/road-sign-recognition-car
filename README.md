@@ -1,6 +1,5 @@
-📷 Demo
 https://github.com/user-attachments/assets/ff39cdf7-fe1c-4524-bfcc-12ecbc1f7b37
-
+📷 Demo
 🚗 Intelligent Road Sign Recognition System for Automated Vehicle Navigation
 📌 Project Overview
 
